@@ -17,6 +17,7 @@
             </el-row>
 		</section>
 		<tendency :sevenDate='sevenDate' :sevenDay='sevenDay'></tendency>
+		1
     </div>
 </template>
 
